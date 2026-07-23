@@ -105,7 +105,7 @@ The data preparation process included:
 
 The dashboard includes interactive filters that allow users to explore Airbnb listings by borough, room type, and price while visualising property locations across New York City.
 
-![NYC Airbnb Dashboard](images/nyc_airbnb_dashboard.png)
+![NYC Airbnb Dashboard](screenshots/nyc_airbnb_dashboard.png)
 
 ---
 
